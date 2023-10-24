@@ -1,6 +1,3 @@
-Certainly! Here's a description you can use for your GitHub repository's README file for your Tic Tac Toe game with both 3x3 and 4x4 boards:
-
----
 
 # Tic Tac Toe - 3x3 and 4x4
 
