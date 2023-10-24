@@ -1,0 +1,24 @@
+E:\TIC-TAC-TOE-master\bin\Debug\Alien Invaders.exe.config
+E:\TIC-TAC-TOE-master\bin\Debug\Alien Invaders.exe
+E:\TIC-TAC-TOE-master\bin\Debug\Alien Invaders.pdb
+E:\TIC-TAC-TOE-master\obj\Debug\TIC-TAC-TOE.csproj.AssemblyReference.cache
+E:\TIC-TAC-TOE-master\obj\Debug\Alien_Invaders.Form1.resources
+E:\TIC-TAC-TOE-master\obj\Debug\Alien_Invaders.Form2.resources
+E:\TIC-TAC-TOE-master\obj\Debug\Alien_Invaders.Form3.resources
+E:\TIC-TAC-TOE-master\obj\Debug\Alien_Invaders.Properties.Resources.resources
+E:\TIC-TAC-TOE-master\obj\Debug\TIC-TAC-TOE.csproj.GenerateResource.cache
+E:\TIC-TAC-TOE-master\obj\Debug\TIC-TAC-TOE.csproj.CoreCompileInputs.cache
+E:\TIC-TAC-TOE-master\obj\Debug\Alien Invaders.exe
+E:\TIC-TAC-TOE-master\obj\Debug\Alien Invaders.pdb
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\bin\Debug\Alien Invaders.exe.config
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\bin\Debug\Alien Invaders.exe
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\bin\Debug\Alien Invaders.pdb
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\obj\Debug\TIC-TAC-TOE.csproj.AssemblyReference.cache
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\obj\Debug\Alien_Invaders.Form1.resources
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\obj\Debug\Alien_Invaders.Form2.resources
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\obj\Debug\Alien_Invaders.Form3.resources
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\obj\Debug\Alien_Invaders.Properties.Resources.resources
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\obj\Debug\TIC-TAC-TOE.csproj.GenerateResource.cache
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\obj\Debug\TIC-TAC-TOE.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\obj\Debug\Alien Invaders.exe
+D:\UNIVERSITY\Fall 21\Discerete Maths\TIC-TAC-TOE-master\obj\Debug\Alien Invaders.pdb
